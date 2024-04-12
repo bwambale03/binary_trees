@@ -1,5 +1,4 @@
-
-A group project by Chiamaka Nwobodo and Aanuoluwapo Shodipo
+A group project by Danile Precious   and Edwin Bwambale
 
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
